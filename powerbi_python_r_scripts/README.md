@@ -13,6 +13,4 @@ Este repositório contém **exemplos reais de scripts em Python e R** prontos pa
 2. Cole o código desejado.
 3. Os dados ou gráficos serão processados.
 
-## Licença
 
-MIT
